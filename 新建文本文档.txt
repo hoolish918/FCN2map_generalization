@@ -1,2 +1,0 @@
-8µÄ½á¹¹£ºEpoch: 29, Train Loss: 0.03742, Train Acc: 0.98663, Train Mean IU: 0.96398, Time: 0:0:40 lr: 0.001
-
